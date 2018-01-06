@@ -1,0 +1,16 @@
+.vscode/
+detect_network/unix_build/build/
+detect_network/android_build/libs/
+detect_network/android_build/obj/
+detect_ports/unix_build/build/
+detect_ports/android_build/libs/
+detect_ports/android_build/obj/
+monitor_network/unix_build/build/
+monitor_network/android_build/libs/
+monitor_network/android_build/obj/
+monitor_user/unix_build/build/
+monitor_user/android_build/libs/
+monitor_user/android_build/obj/
+network_jammer/unix_build/build/
+network_jammer/android_build/libs/
+network_jammer/android_build/obj/
